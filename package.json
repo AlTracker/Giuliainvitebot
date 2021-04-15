@@ -1,0 +1,33 @@
+{
+  "name": "bot-counter",
+  "version": "1.0.0",
+  "description": "A discord bot to count things.",
+  "main": "bot-counter.js",
+  "dependencies": {
+    "aws-sdk": "2.x",
+    "bufferutil": "^4.0.0",
+    "busboy": "^0.3.1",
+    "cron": "^1.8.2",
+    "discord.js": "^11.6.4",
+    "ejs": "2.x",
+    "express": "4.x",
+    "mathjs": "^5.0.1",
+    "module_name": "^1.0.0",
+    "properties-reader": "^0.0.16",
+    "unirest": ""
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zeptaxis/bot-counter.git"
+  },
+  "author": "Zeptaxis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zeptaxis/bot-counter/issues"
+  },
+  "homepage": "https://github.com/Zeptaxis/bot-counter#readme"
+}
